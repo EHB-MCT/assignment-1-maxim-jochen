@@ -160,7 +160,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](./LICENSE)
 ## Attribution
 
 This project was made with:
-- the information from the given [Powerpoint](https://canvas.ehb.be/courses/40240/files/2990444?module_item_id=687239) slides from the Development V lectures
+- The information from the given [Powerpoint](https://canvas.ehb.be/courses/40240/files/2990444?module_item_id=687239) slides from the Development V lectures
 - Documentation from the official [Vite website](https://vite.dev/guide/)
 - Documentation from the official [React website](https://react.dev/reference/react)
 - Documentation from the official [Hands on React website](https://handsonreact.com/docs)
