@@ -1,0 +1,7 @@
+/* media.css: Media queries for responsive design */
+
+@media only screen and (max-width: 600px) {
+    body {
+      background-color: #fff;
+    }
+  }
